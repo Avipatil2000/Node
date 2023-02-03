@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "nodejs file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avipatil2000/Node.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "avishkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avipatil2000/Node/issues"
+  },
+  "homepage": "https://github.com/Avipatil2000/Node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
